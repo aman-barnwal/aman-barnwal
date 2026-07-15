@@ -18,10 +18,29 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=aman-barnwal&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aman Barnwal's GitHub Trophies" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+## 🏙️ 3D Contribution City
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/aman-barnwal/aman-barnwal/main/profile-3d-city.svg?sanitize=true"
+    alt="3D Contribution City"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aman-barnwal&theme=github-dark&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman-barnwal&theme=github_dark"
+    width="100%"
+  />
+</p>
 
 ## 🛠️ Languages & Tools
 
