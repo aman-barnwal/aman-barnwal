@@ -93,7 +93,7 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=aman-barnwal)
+
 <br/>
 
 ## 🔗 Connect with Me
