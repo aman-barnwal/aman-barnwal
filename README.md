@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=aman-barnwal&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aman Barnwal's GitHub Trophies" />
 </p>
-## 🏙️ 3D Contribution City
 
 <p align="center">
   <img
